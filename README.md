@@ -44,6 +44,8 @@ enter the second order: red bull
 item red bull has been added to order
 the total amount of order to pay is 300
 ```
+---
+
 💻 Installation
 Clone or Download the repository:
 
@@ -55,6 +57,8 @@ Run the script:
 python hotelmenu.py
 No third-party libraries required. Only Python 3+.
 
+---
+
 🧠 How It Works
 The menu is stored as a Python dictionary with item names and prices.
 
@@ -63,6 +67,7 @@ The program takes the first order and checks availability.
 Optionally, a second item can be added.
 
 The total bill is calculated and displayed.
+
 ---
 
 🤝 Contributing
@@ -77,6 +82,7 @@ Commit your changes (git commit -m 'Add your feature')
 Push to the branch (git push origin your-feature)
 
 Open a Pull Request
+
 ---
 
 📬 Contact
